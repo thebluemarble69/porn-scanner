@@ -39,7 +39,8 @@ def guu():
         sexx.start()
 if __name__ == "__main__":
     guu()
-    sleep(4)    # iha par gadbad che, thikh kardije ga
+# iha par gadbad che, thikh kardije ga
+    sleep(4)    
     print()
     f(opens)
     print("\n if all ports no looking ten, try increze time nd chek wit nmap")
